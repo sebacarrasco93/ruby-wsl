@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo "Instalando Ruby on Rails"
 gem install rails
 

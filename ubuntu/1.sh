@@ -13,6 +13,6 @@ echo "Intentando instalar gestor de paquetes RVM + Ruby on Rails..."
 \curl -sSL https://get.rvm.io | bash -s stable --rails
 
 echo "Agregando el source de RVM"
-/home/mari/.rvm/scripts/rvm
+~/.rvm/scripts/rvm
 
 echo "Ahora debes cerrar esta ventana, y volver a abrirla..."
